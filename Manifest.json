@@ -1,0 +1,32 @@
+{
+  "info" : 
+  {
+    "name" : "test",
+
+    "summary" : "This is a qooxdoo test app",
+    "description" : "",
+    
+    "homepage" : "",
+
+    "license" : "MIT license",
+    "authors" : [
+  {
+    "name": "Christian Boulanger (cboulanger)",
+    "email": "info@bibliograph.org"
+  }
+],
+
+    "version" : "1.0.0",
+    "qooxdoo-range": "6.0.0-alpha - 6.x"
+  },
+  
+  "provides" : 
+  {
+    "namespace"   : "test",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "application"
+  }
+}

@@ -1,2 +1,4 @@
-# qx-contrib-test
-This is a test contribution for the qooxdoo contrib system
+# test
+
+This is a qooxdoo test app
+

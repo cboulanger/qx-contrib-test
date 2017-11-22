@@ -1,5 +1,7 @@
-cache
-cache-downloads
-inspector
-api
-source/inspector.html
+# .gitignore template for skeleton-based apps built with qxcompiler
+/*-output/
+/db.json
+/resource-db.json
+/qooxdoo/
+node_modules/
+npm-debug.log
