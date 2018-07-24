@@ -25,7 +25,7 @@
   ],
 
   "libraries": [
-    "/Users/cboulanger/Code/qooxdoo/framework",
+    "node_modules/qooxdoo-sdk/framework",
     "."
   ]
 }
