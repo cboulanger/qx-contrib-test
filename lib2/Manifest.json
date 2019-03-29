@@ -1,31 +1,23 @@
 {
-  "info" :
-  {
-    "name" : "A second library",
-
-    "summary" : "The description of the second library",
-    "description" : "undefined",
-
-    "homepage" : "undefined",
-
-    "license" : "MIT license",
-    "authors" : "",
-
-    "version" : "1.0.0"
+  "info": {
+    "name": "A second library",
+    "summary": "The description of the second library",
+    "description": "undefined",
+    "homepage": "undefined",
+    "license": "MIT license",
+    "authors": "",
+    "version": "1.1.0"
   },
-
-  "provides" :
-  {
-    "namespace"   : "lib2",
-    "encoding"    : "utf-8",
-    "class"       : "source/class",
-    "resource"    : "source/resource",
-    "translation" : "source/translation",
-    "type"        : "application"
+  "provides": {
+    "namespace": "lib2",
+    "encoding": "utf-8",
+    "class": "source/class",
+    "resource": "source/resource",
+    "translation": "source/translation",
+    "type": "application"
   },
-
   "requires": {
-    "qooxdoo-sdk"     : "^6.0.0-alpha",
+    "qooxdoo-sdk": "^6.0.0-alpha",
     "qooxdoo-compiler": "^0.3.0-alpha.20190327-0809"
   }
 }
