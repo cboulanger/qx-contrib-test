@@ -11,8 +11,7 @@
         "email": "info@bibliograph.org"
       }
     ],
-    "version": "1.0.34",
-    "qooxdoo-range": "^6.0.0-alpha"
+    "version": "1.0.35"
   },
   "provides": {
     "namespace": "test",
@@ -21,5 +20,8 @@
     "resource": "source/resource",
     "translation": "source/translation",
     "type": "application"
+  },
+  "requires": {
+    "qooxdoo-sdk": "^6.0.0-alpha"
   }
 }
