@@ -1,0 +1,11 @@
+{
+  "libraries": [
+    {
+      "path": "lib2"
+    },
+    {
+      "path": ".",
+      "main": true
+    }
+  ]
+}
